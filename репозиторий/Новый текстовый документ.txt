@@ -4,19 +4,19 @@ css  index.html  js  test.html  репозиторий
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>сайт находится в разработке</title>
+    <title>сайт  в разработке</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='js/jquery-3.6.0.min.js'></script>
 </head>
 <body>
     <header>
         <nav>
-            <a href="#services">Услуги  и сервиз</a>
-            <a href="#contacts">Адрес и телефон</a>
+            <a href="#services">Услуги для вас</a>
+            <a href="#contacts">Адрес и телефон компании</a>
         </nav>
         <div>
             <a href="tel:+79039999999">+7 903 999-99-99</a>
-            <button>Заказать разговор</button>
+            <button>Заказать звонок</button>
         </div>
     </header>
 </body>
